@@ -2689,7 +2689,7 @@ Concept Index
                                                               (line  27)
 * Float rounding functions:              Miscellaneous Float Functions.
                                                               (line   9)
-* Float sign tests:                      Float Comparison.    (line  34)
+* Float sign tests:                      Float Comparison.    (line  33)
 * Floating point mode:                   Notes for Particular Systems.
                                                               (line  34)
 * Floating-point functions:              Floating-point Functions.
@@ -3022,7 +3022,7 @@ Concept Index
                                                               (line   6)
 * Rational numerator and denominator:    Applying Integer Functions.
                                                               (line   6)
-* Rational sign tests:                   Comparing Rationals. (line  28)
+* Rational sign tests:                   Comparing Rationals. (line  27)
 * Raw output internals:                  Raw Output Internals.
                                                               (line   6)
 * Reallocations:                         Efficiency.          (line  30)
@@ -3057,8 +3057,8 @@ Concept Index
 * Shared library versioning:             Notes for Package Builds.
                                                               (line   9)
 * Sign tests:                            Integer Comparisons. (line  28)
-* Sign tests <1>:                        Comparing Rationals. (line  28)
-* Sign tests <2>:                        Float Comparison.    (line  34)
+* Sign tests <1>:                        Comparing Rationals. (line  27)
+* Sign tests <2>:                        Float Comparison.    (line  33)
 * Size in digits:                        Miscellaneous Integer Functions.
                                                               (line  23)
 * Small operands:                        Efficiency.          (line   7)
@@ -3341,14 +3341,13 @@ Function and Type Index
 * mpf_clear:                             Initializing Floats. (line  36)
 * mpf_clears:                            Initializing Floats. (line  40)
 * mpf_cmp:                               Float Comparison.    (line   6)
-* mpf_cmp_d:                             Float Comparison.    (line   8)
-* mpf_cmp_si:                            Float Comparison.    (line  10)
-* mpf_cmp_ui:                            Float Comparison.    (line   9)
-* mpf_cmp_z:                             Float Comparison.    (line   7)
+* mpf_cmp_d:                             Float Comparison.    (line   7)
+* mpf_cmp_si:                            Float Comparison.    (line   9)
+* mpf_cmp_ui:                            Float Comparison.    (line   8)
 * mpf_div:                               Float Arithmetic.    (line  28)
 * mpf_div_2exp:                          Float Arithmetic.    (line  53)
 * mpf_div_ui:                            Float Arithmetic.    (line  31)
-* mpf_eq:                                Float Comparison.    (line  17)
+* mpf_eq:                                Float Comparison.    (line  16)
 * mpf_fits_sint_p:                       Miscellaneous Float Functions.
                                                               (line  19)
 * mpf_fits_slong_p:                      Miscellaneous Float Functions.
@@ -3394,7 +3393,7 @@ Function and Type Index
 * mpf_pow_ui:                            Float Arithmetic.    (line  39)
 * mpf_random2:                           Miscellaneous Float Functions.
                                                               (line  35)
-* mpf_reldiff:                           Float Comparison.    (line  28)
+* mpf_reldiff:                           Float Comparison.    (line  27)
 * mpf_set:                               Assigning Floats.    (line   9)
 * mpf_set_d:                             Assigning Floats.    (line  12)
 * mpf_set_default_prec:                  Initializing Floats. (line   6)
@@ -3405,7 +3404,7 @@ Function and Type Index
 * mpf_set_str:                           Assigning Floats.    (line  17)
 * mpf_set_ui:                            Assigning Floats.    (line  10)
 * mpf_set_z:                             Assigning Floats.    (line  13)
-* mpf_sgn:                               Float Comparison.    (line  33)
+* mpf_sgn:                               Float Comparison.    (line  32)
 * mpf_sqrt:                              Float Arithmetic.    (line  35)
 * mpf_sqrt_ui:                           Float Arithmetic.    (line  36)
 * mpf_sub:                               Float Arithmetic.    (line  11)
@@ -3532,14 +3531,13 @@ Function and Type Index
 * mpq_clears:                            Initializing Rationals.
                                                               (line  19)
 * mpq_cmp:                               Comparing Rationals. (line   6)
-* mpq_cmp_si:                            Comparing Rationals. (line  16)
-* mpq_cmp_ui:                            Comparing Rationals. (line  14)
-* mpq_cmp_z:                             Comparing Rationals. (line   7)
+* mpq_cmp_si:                            Comparing Rationals. (line  15)
+* mpq_cmp_ui:                            Comparing Rationals. (line  13)
 * mpq_denref:                            Applying Integer Functions.
                                                               (line  16)
 * mpq_div:                               Rational Arithmetic. (line  22)
 * mpq_div_2exp:                          Rational Arithmetic. (line  26)
-* mpq_equal:                             Comparing Rationals. (line  33)
+* mpq_equal:                             Comparing Rationals. (line  32)
 * mpq_get_d:                             Rational Conversions.
                                                               (line   6)
 * mpq_get_den:                           Applying Integer Functions.
@@ -3578,7 +3576,7 @@ Function and Type Index
                                                               (line  27)
 * mpq_set_z:                             Initializing Rationals.
                                                               (line  24)
-* mpq_sgn:                               Comparing Rationals. (line  27)
+* mpq_sgn:                               Comparing Rationals. (line  26)
 * mpq_sub:                               Rational Arithmetic. (line  10)
 * mpq_swap:                              Initializing Rationals.
                                                               (line  54)
